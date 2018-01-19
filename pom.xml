@@ -5,7 +5,7 @@
 	<artifactId>spring3-mvc-maven-xml-hello-world</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>spring3 balakrishna</name>
+	<name>spring3 balakrishna jaishima</name>
 
 	<properties>
 		<jdk.version>1.6</jdk.version>
